@@ -3,3 +3,7 @@ Version 1.3.4.0		17/04/2020
 Version 1.3.5.1		21/04/2020
 	- Adding option to copy the result of the query to the clipboard
 	- Adding option to export the result of the query to an xlsx file
+Version 1.3.6.26
+	- Fixing bug in the Restriction by taking into account values with spaces in the condition.
+Version 1.3.7.5
+	- Fixing bug in Semijoin operation
